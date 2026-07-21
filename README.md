@@ -22,7 +22,7 @@ Python, Sentence-Transformers, HuggingFace Transformers
 
 ## How to Run
 
-This notebook is designed for Google Colab or a local Jupyter environment with GPU access (recommended for model loading and inference). Open `GenAI_Project_Complete.ipynb` and run cells sequentially — Section 2 (dataset collection) can be skipped if data is already saved locally.
+This notebook is designed and tested for Google Colab but can work for a local Jupyter environment with GPU access (recommended for model loading and inference). Open `GenAI_Project.ipynb` and run cells sequentially — Section 2 (dataset collection) can be skipped if data is already saved locally.
 
 ## Notes
 
